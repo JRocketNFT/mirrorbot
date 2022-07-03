@@ -3,15 +3,16 @@ Bot for mirroring discord channels.
 
 This bot was purchased originally for mirroring discord content from one channel to another.  I had to accomplish my own edits to get it to work appropriately. Below are the instructions to use the bot.  I am in no way a bot wiz.  I use develop on what is available to make it easier for beginners like myself.
 
-Instructions
+REQUIREMENTS
 
-Requirements
 1.  Visual Studio Code or your preferred code editor.
 2.  Updated Powershell:  https://aka.ms/PSWindows
 3.  Node.js:  https://nodejs.org/en/
 4.  Github account (optional)
 5.  Webhost (I used Heroku)
 6.  Monitor for Pinging Bot (https://kaffeine.herokuapp.com/)
+
+INSTRUCTIONS
 
 1.  Unzip and Open Mirror Bot folder in your code editor.
 2.  Go grab your discord token from from discord web app: https://www.androidauthority.com/get-discord-token-3149920/
