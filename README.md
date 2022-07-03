@@ -5,7 +5,7 @@ Bot for mirroring discord channels
 Instructions
 
 Requirements
-Visual Studio Code or your preferred code editor
+Visual Studio Code or your preferred code editor.
 Updated Powershell:  https://aka.ms/PSWindows
 Node.js:  https://nodejs.org/en/
 Github account (optional)
