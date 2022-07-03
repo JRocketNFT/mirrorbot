@@ -1,7 +1,7 @@
 # mirrorbot
 Bot for mirroring discord channels.
 
-This bot was purchased originally for mirroring discord content from one channel to another.  I had to accomplish my own edits to get it to work appropriately. Below are the instructions to use the bot.  I am in no way a bot wiz.  I use develop on what is available to make it easier for beginners like myself.
+This bot was purchased originally for mirroring discord content from one channel to another.  I had to accomplish my own edits to get it to work appropriately. Below are the instructions to use the bot.  I am in no way a bot wiz.  I develop on what is available to make it easier for beginners like myself.
 
 REQUIREMENTS
 
