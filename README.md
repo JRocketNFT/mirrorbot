@@ -6,12 +6,12 @@ This bot was purchased originally for mirroring discord content from one channel
 Instructions
 
 Requirements
-Visual Studio Code or your preferred code editor.
-Updated Powershell:  https://aka.ms/PSWindows
-Node.js:  https://nodejs.org/en/
-Github account (optional)
-Webhost (I used Heroku)
-Monitor for Pinging Bot (https://kaffeine.herokuapp.com/)
+1.  Visual Studio Code or your preferred code editor.
+2.  Updated Powershell:  https://aka.ms/PSWindows
+3.  Node.js:  https://nodejs.org/en/
+4.  Github account (optional)
+5.  Webhost (I used Heroku)
+6.  Monitor for Pinging Bot (https://kaffeine.herokuapp.com/)
 
 1.  Unzip and Open Mirror Bot folder in your code editor.
 2.  Go grab your discord token from from discord web app: https://www.androidauthority.com/get-discord-token-3149920/
