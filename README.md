@@ -20,7 +20,7 @@ INSTRUCTIONS
 3.  Input it into token section between parentheses of the Bot.json file.
 4.  Enable developer mode in discord:  https://discord.com/developers/docs/game-sdk/store
 5.  Copy ID of channel you want to mirror.  Input it between the parentheses in the Channel ID section of the Bot.json file.
-6.  Create a webhook in the channel you want to feed the mirror into.  https://www.socialoomph.com/help/view/help_discord_webhook_how/
+6.  Create a webhook in the channel you want to feed the mirror into.  https://www.socialoomph.com/help/view/help_discord_webhook_how/.  Copy the URL and post it in the quotes following channel ID. ex "92856175": "WebhookURL.com"
 7.  Rinse and repeat in the Bot.json file of however many channels you want.  Note they can feed into the same webhook.
 8.  Test on the local network. Open a new terminal and input the following commands:  "npm i" then once that loads run "node main.js".
 9.  Confirm your code is running properly.  Now time to take it to a webhost.
