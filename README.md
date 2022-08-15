@@ -35,6 +35,7 @@ HEROKU INFO
 
 
 Things to remember
+
 14.  If you log out and back into your discord account on a device your authorization token will change.  Best to use a discord that is not your main account.  You will then need to redeploy the code with the new token.
 
 15.  Channel ID's change occassionally on Discords when things are moved around.  You will need to copy the new channel ID input it into the Bot.json, restart dynos (if using Heroku) and redeploy the code as necessary.   
