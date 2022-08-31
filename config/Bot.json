@@ -1,0 +1,10 @@
+{
+    "token": "insert token here",
+    "info": true,
+    "channels": {
+
+        "Chanel ID 1 (replace all this)": "webhook (replace all this)",
+        "Chanel ID 2 (replace all this)": "webhook (replace all this)",
+        "Chanel ID 3 (replace all this)": "webhook (replace all this)"
+    }
+}
