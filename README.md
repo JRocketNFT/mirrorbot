@@ -40,4 +40,4 @@ Things to remember
 
 15.  Channel ID's change occassionally on Discords when things are moved around.  You will need to copy the new channel ID input it into the Bot.json, restart dynos (if using Heroku) and redeploy the code as necessary.
 
-16. Ensure your app name matches your root folder name.     
+16. Ensure your app name in Heroku matches your root folder name.  In this folder example it is mirrorbot.     
